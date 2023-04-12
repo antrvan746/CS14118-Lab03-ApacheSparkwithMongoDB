@@ -1,8 +1,8 @@
 
 <div style="text-align: center">
     <span style="font-size: 3em; font-weight: 700; font-family: Consolas">
-        Lab 02 <br>
-        MapReduce Programing
+        Lab 03 <br>
+        Apache Spark with MongoDB
     </span>
     <br><br>
     <span style="">
